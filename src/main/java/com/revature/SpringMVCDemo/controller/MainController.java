@@ -8,7 +8,7 @@ public class MainController {
 	
 	@GetMapping
 	public String main() {
-		return "Hello Adam! This a simple Spring Boot App";
+		return "Hello Adam! This a simple Spring Boot App - Updated";
 	}
 	
 }
